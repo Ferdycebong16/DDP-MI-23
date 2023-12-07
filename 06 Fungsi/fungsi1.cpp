@@ -6,7 +6,7 @@ void myFunction()
     cout << "I just got executed" << endl;
 }
 
-void myFunction2(string name = "Athans", int umur = 19)
+void myFunction2(string name = "Cebong", int umur = 19)
 {
     cout << "Nama saya : " << name << " Umur saya : " << umur << endl;
 }
@@ -22,7 +22,7 @@ int main()
     myFunction();
     myFunction();
 
-    myFunction2("Athans");
+    myFunction2("Cebong");
     myFunction2("Pragos", 19);
     myFunction2("Balaram", 19);
     myFunction2("Krisna", 18);

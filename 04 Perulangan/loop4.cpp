@@ -8,7 +8,7 @@ int main()
 
     while (ulangi == 'y')
     {
-        cout << "apakah Pipah sayang aku?" << endl;
+        cout << "apakah kamu sayang aku?" << endl;
         cout << "jawb (y/t) ";
         cin >> ulangi;
 
